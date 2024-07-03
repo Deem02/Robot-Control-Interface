@@ -37,4 +37,4 @@ git clone https://github.com/your-username/robot-control-interface.git
 - CSS
 - JavaScript
 - PHP
-- MySQL
+- MySQL (xampp)
