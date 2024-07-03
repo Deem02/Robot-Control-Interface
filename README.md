@@ -39,6 +39,7 @@ git clone https://github.com/your-username/robot-control-interface.git
 - PHP
 - MySQL (xampp)
 
+## Output
 as you see here if you cliclk to any button it will store it in database
   ![image](https://github.com/Deem02/Robot-Control-Interface/assets/158334032/05ef8087-992a-4e0a-9274-02487ffec2d9)
 
